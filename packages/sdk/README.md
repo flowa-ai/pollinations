@@ -662,7 +662,7 @@ rate limits.
 - [Pollinations.AI](https://pollinations.ai)
 - [API Documentation](https://gen.pollinations.ai/docs) - Full API reference
 - [Get API Key](https://enter.pollinations.ai/keys)
-- [Discord](https://discord.gg/pollinations-ai-885844321461485618)
+- [Discord](https://discord.com/invite/pollinations)
 - [GitHub](https://github.com/pollinations/pollinations)
 
 ## License

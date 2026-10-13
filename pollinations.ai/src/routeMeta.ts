@@ -89,7 +89,7 @@ export function getJsonLd(path: string): string | null {
             logo: "https://pollinations.ai/icon-512.png",
             sameAs: [
                 "https://github.com/pollinations",
-                "https://discord.gg/pollinations-ai-885844321461485618",
+                "https://discord.com/invite/pollinations",
                 "https://x.com/pollinations_ai",
             ],
             description: ROUTE_META["/"].description,

@@ -113,7 +113,7 @@ const EXTERNAL_LINKS = [
         showLabel: true,
     },
     {
-        href: "https://discord.gg/pollinations-ai-885844321461485618",
+        href: "https://discord.com/invite/pollinations",
         label: "Discord",
         icon: <DiscordIcon className="h-4 w-4" />,
     },

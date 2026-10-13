@@ -12,7 +12,7 @@ import {
 } from "../types.ts";
 
 const DISCORD_INVITE_URL =
-    "https://discord.gg/pollinations-ai-885844321461485618";
+    "https://discord.com/invite/pollinations";
 
 const joinDiscordQuest: QuestDefinition = {
     id: "join_discord",

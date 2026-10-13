@@ -19,7 +19,7 @@ export function StartBuilding() {
                 Get an API key
             </ExternalLinkButton>
             <ExternalLinkButton
-                href="https://discord.gg/pollinations-ai-885844321461485618"
+                href="https://discord.com/invite/pollinations"
                 intent="neutral"
                 size="lg"
             >
